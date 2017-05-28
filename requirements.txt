@@ -4,7 +4,7 @@ pip
 cffi==1.6.0; sys_platform == 'win32'
 $ git push heroku master
 $ heroku run bash
-$ make
+$ make C:\Users\Lenovo\Desktop\MusicBot-master
 $ git add .
 $ git commit -m "runbot.bat"
 $ git push heroku master
