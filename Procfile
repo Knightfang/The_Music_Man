@@ -1,1 +1,1 @@
-worker: the music man.py
+worker: The Music Man.py
