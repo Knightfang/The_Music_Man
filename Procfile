@@ -1,1 +1,2 @@
-worker: the music man.py
+worker: the music man.py ;
+heroku run runbot.bat
