@@ -2,7 +2,3 @@ discord.py[voice] ~= 0.12.0
 youtube_dl
 pip
 cffi==1.6.0; sys_platform == 'win32'
-$ heroku run bash
-$ make C:\Users\Lenovo\Desktop\MusicBot-master\runbot.bat
-$ git add .
-$ git commit -m "runbot.bat"
